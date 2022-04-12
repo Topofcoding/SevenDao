@@ -36,12 +36,12 @@ const LandingHeader: React.FC = () => {
                         </SidebarBtn>
                         <NavbarWrapper>
                             <NavbarItem to="/app">App</NavbarItem>
-                            <NavbarItem to="https://google.com">Buy SVC</NavbarItem>
-                            <NavbarItem to="https://google.com">Discord</NavbarItem>
-                            <NavbarItem to="https://google.com">Twitter</NavbarItem>
-                            <NavbarItem to="https://google.com">Medium</NavbarItem>
-                            <NavbarItem to="https://google.com">Docs</NavbarItem>
-                            <NavbarItem to="https://google.com">Contracts</NavbarItem>
+                            <NavbarItem to="">Buy SVC</NavbarItem>
+                            <NavbarItem to="">Discord</NavbarItem>
+                            <NavbarItem to="">Twitter</NavbarItem>
+                            <NavbarItem to="">Medium</NavbarItem>
+                            <NavbarItem to="">Docs</NavbarItem>
+                            <NavbarItem to="">Contracts</NavbarItem>
                         </NavbarWrapper>
                         <Button
                             label="Open the app"
@@ -57,12 +57,12 @@ const LandingHeader: React.FC = () => {
                     <i className="bi bi-x-lg"></i>
                 </SidebarClose>
                 <NavbarItem to="/app">App</NavbarItem>
-                <NavbarItem to="https://google.com">Buy SVC</NavbarItem>
-                <NavbarItem to="https://google.com">Discord</NavbarItem>
-                <NavbarItem to="https://google.com">Twitter</NavbarItem>
-                <NavbarItem to="https://google.com">Medium</NavbarItem>
-                <NavbarItem to="https://google.com">Docs</NavbarItem>
-                <NavbarItem to="https://google.com">Contracts</NavbarItem>
+                <NavbarItem to="">Buy SVC</NavbarItem>
+                <NavbarItem to="">Discord</NavbarItem>
+                <NavbarItem to="">Twitter</NavbarItem>
+                <NavbarItem to="">Medium</NavbarItem>
+                <NavbarItem to="">Docs</NavbarItem>
+                <NavbarItem to="">Contracts</NavbarItem>
             </Sidebar>
         </>
     );
