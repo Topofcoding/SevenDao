@@ -4,6 +4,7 @@ import { IntroContainer, LandingIntroWrapper, IntroImageContainer } from "./land
 import logoImg from "../../assets/image/logo.png";
 
 const LandingIntro: React.FC = () => {
+    // commit 
     return (
         <Container>
             <LandingIntroWrapper>
