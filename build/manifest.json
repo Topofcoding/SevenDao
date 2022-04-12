@@ -1,0 +1,11 @@
+{
+  "short_name": "Seven Money",
+  "start_url": ".",
+  "homepage": "./",
+  "name": "Seven Moeny",
+  "launch_path": "/public/index.html",
+
+  "display": "browser",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
